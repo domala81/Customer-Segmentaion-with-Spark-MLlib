@@ -4,7 +4,7 @@
 # In[1]:
 
 
-pip install findspark
+# pip install findspark
 
 
 # In[2]:
